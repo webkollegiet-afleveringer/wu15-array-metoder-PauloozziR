@@ -20,3 +20,11 @@ console.log("Opgave 3a", nameCheck);
 // --- opgave 3b ---
 nameCheck = dogsArray.includes("Baxter");
 console.log("Opgave 3b", nameCheck);
+
+// --- opgave 4a  ---
+nameCheck = catsArray.includes("Bagheera");
+console.log("Opgave 4a", nameCheck);
+
+// --- opgave 4a ---
+nameCheck = catsArray.includes("Salem");
+console.log("Opgave 4b", nameCheck);

@@ -37,4 +37,7 @@ numbersArray.forEach((numbersArray) => {
 console.log("Opgave 5", newNumberArray);
 
 // --- opgave 6 ---
-console.log(dogsArray.join(""));
+console.log("Opgave 6", dogsArray.join(""));
+
+// --- opgave 7 ---
+console.log("Opgave 7", );

@@ -39,5 +39,10 @@ console.log("Opgave 5", newNumberArray);
 // --- opgave 6 ---
 console.log("Opgave 6", dogsArray.join(""));
 
-// --- opgave 7 ---
-console.log("Opgave 7", );
+// --- opgave 7a ---
+let index = fruitsArray.indexOf("Mango");
+console.log("Opgave 7a", index);
+
+// --- opgave 7b ---
+index = fruitsArray.indexOf("Blåbær");
+console.log("Opgave 7b", index);

@@ -25,7 +25,7 @@ console.log("Opgave 3b", nameCheck);
 nameCheck = catsArray.find(( element ) => element === "Bagheera");
 console.log("Opgave 4a", nameCheck);
 
-// --- opgave 4a ---
+// --- opgave 4b ---
 nameCheck = catsArray.find(( element ) => element === "Salem");
 console.log("Opgave 4b", nameCheck);
 

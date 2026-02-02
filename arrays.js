@@ -30,3 +30,8 @@ nameCheck = catsArray.find(( element ) => element === "Salem");
 console.log("Opgave 4b", nameCheck);
 
 // --- opgave 5 ---
+let newNumberArray = [];
+numbersArray.forEach((numbersArray) => {
+    newNumberArray.push(numbersArray * 3);
+});
+console.log("Opgave 5", newNumberArray);

@@ -13,10 +13,10 @@ console.log("Opgave 1", newNumbers);
 let newCats = catsArray.push("Sniffles");
 console.log("Opgave 2", catsArray);
 
-// --- opgave 3 ---
+// --- opgave 3a ---
 let nameCheck = dogsArray.includes("Trixie");
-console.log("Opgave 3", nameCheck);
+console.log("Opgave 3a", nameCheck);
 
-// --- opgave 4 ---
-
-console.log("Opgave 4", );
+// --- opgave 3b ---
+nameCheck = dogsArray.includes("Baxter");
+console.log("Opgave 3b", nameCheck);

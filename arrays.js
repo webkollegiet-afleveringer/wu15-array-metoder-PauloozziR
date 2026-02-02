@@ -35,3 +35,6 @@ numbersArray.forEach((numbersArray) => {
     newNumberArray.push(numbersArray * 3);
 });
 console.log("Opgave 5", newNumberArray);
+
+// --- opgave 6 ---
+console.log(dogsArray.join(""));

@@ -46,3 +46,7 @@ console.log("Opgave 7a", index);
 // --- opgave 7b ---
 index = fruitsArray.indexOf("Blåbær");
 console.log("Opgave 7b", index);
+
+// --- opgave 8 ---
+dogsArray.splice(3, 1);
+console.log("Opgave 8", dogsArray);
